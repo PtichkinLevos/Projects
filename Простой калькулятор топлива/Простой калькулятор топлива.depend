@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618327218 source:c:\users\gromm\desktop\Программирование\Простой калькулятор топлива\main.cpp
+	<iostream>
+	<cmath>
+	"Classes.h"
+
+1618416264 c:\users\gromm\desktop\Программирование\Простой калькулятор топлива\classes.h
+
+1618327218 source:c:\users\gromm\documents\Программирование\Простой калькулятор топлива\main.cpp
+	<iostream>
+	<cmath>
+	"Classes.h"
+
+1618416264 c:\users\gromm\documents\Программирование\Простой калькулятор топлива\classes.h
+
